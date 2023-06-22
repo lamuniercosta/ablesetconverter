@@ -1,0 +1,19 @@
+F:\Dev\AbleSet Converter\AbleSet Converter\bin\Debug\net7.0-windows\AbleSet Converter.exe
+F:\Dev\AbleSet Converter\AbleSet Converter\bin\Debug\net7.0-windows\AbleSet Converter.deps.json
+F:\Dev\AbleSet Converter\AbleSet Converter\bin\Debug\net7.0-windows\AbleSet Converter.runtimeconfig.json
+F:\Dev\AbleSet Converter\AbleSet Converter\bin\Debug\net7.0-windows\AbleSet Converter.dll
+F:\Dev\AbleSet Converter\AbleSet Converter\bin\Debug\net7.0-windows\AbleSet Converter.pdb
+F:\Dev\AbleSet Converter\AbleSet Converter\bin\Debug\net7.0-windows\Newtonsoft.Json.dll
+F:\Dev\AbleSet Converter\AbleSet Converter\obj\Debug\net7.0-windows\AbleSet Converter.csproj.AssemblyReference.cache
+F:\Dev\AbleSet Converter\AbleSet Converter\obj\Debug\net7.0-windows\AbleSet_Converter.MainWindow.resources
+F:\Dev\AbleSet Converter\AbleSet Converter\obj\Debug\net7.0-windows\AbleSet Converter.csproj.GenerateResource.cache
+F:\Dev\AbleSet Converter\AbleSet Converter\obj\Debug\net7.0-windows\AbleSet Converter.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\AbleSet Converter\AbleSet Converter\obj\Debug\net7.0-windows\AbleSet Converter.AssemblyInfoInputs.cache
+F:\Dev\AbleSet Converter\AbleSet Converter\obj\Debug\net7.0-windows\AbleSet Converter.AssemblyInfo.cs
+F:\Dev\AbleSet Converter\AbleSet Converter\obj\Debug\net7.0-windows\AbleSet Converter.csproj.CoreCompileInputs.cache
+F:\Dev\AbleSet Converter\AbleSet Converter\obj\Debug\net7.0-windows\AbleSet Converter.csproj.CopyComplete
+F:\Dev\AbleSet Converter\AbleSet Converter\obj\Debug\net7.0-windows\AbleSet Converter.dll
+F:\Dev\AbleSet Converter\AbleSet Converter\obj\Debug\net7.0-windows\refint\AbleSet Converter.dll
+F:\Dev\AbleSet Converter\AbleSet Converter\obj\Debug\net7.0-windows\AbleSet Converter.pdb
+F:\Dev\AbleSet Converter\AbleSet Converter\obj\Debug\net7.0-windows\AbleSet Converter.genruntimeconfig.cache
+F:\Dev\AbleSet Converter\AbleSet Converter\obj\Debug\net7.0-windows\ref\AbleSet Converter.dll
